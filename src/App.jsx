@@ -5,4 +5,4 @@ export default () => {
     <div id="app">
         <Card></Card>
     </div>
-}
+};
