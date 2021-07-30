@@ -1,0 +1,19 @@
+.Card {
+  background-color: red;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 3px solid red;
+}
+/*Deixar a área do Title 
+um pouco menor que que Content */
+.Card .Title {
+  padding: 10px 0px;
+  display: flex;
+  justify-content: center; /*title centralizado*/
+}
+/*Aumentar a área do Content*/
+.Card .Content {
+  background-color: #fff;
+  color: #000;
+  padding: 20px;
+}
